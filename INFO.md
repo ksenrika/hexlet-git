@@ -1,2 +1,1 @@
-new line
-experiment with amend
+new line experiment with amend
